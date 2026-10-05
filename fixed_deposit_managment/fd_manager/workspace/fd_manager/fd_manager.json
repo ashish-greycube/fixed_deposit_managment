@@ -1,0 +1,46 @@
+{
+ "app": "fixed_deposit_managment",
+ "charts": [],
+ "content": "[{\"id\":\"caew42nJpB\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Welcome to the FD Manager workspace</span>\",\"col\":12}},{\"id\":\"LTL_iwccUN\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Fixed Deposit\",\"col\":3}},{\"id\":\"MeROcxShDs\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"New Fixed Deposit\",\"col\":3}}]",
+ "creation": "2026-10-05 18:13:38.042697",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "hide_custom": 0,
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "FD Manager",
+ "link_type": "DocType",
+ "links": [],
+ "modified": "2026-10-05 18:15:43.861284",
+ "modified_by": "Administrator",
+ "module": "FD Manager",
+ "name": "FD Manager",
+ "number_cards": [],
+ "owner": "Administrator",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 0.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Fixed Deposit",
+   "link_to": "Fixed Deposit",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "New",
+   "label": "New Fixed Deposit",
+   "link_to": "Fixed Deposit",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "FD Manager",
+ "type": "Workspace"
+}

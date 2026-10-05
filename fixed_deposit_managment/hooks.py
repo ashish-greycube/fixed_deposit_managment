@@ -45,6 +45,7 @@ app_license = "mit"
 # include js in doctype views
 # doctype_js = {"doctype" : "public/js/doctype.js"}
 # doctype_list_js = {"doctype" : "public/js/doctype_list.js"}
+doctype_list_js = {"Fixed Deposit": "fd_manager/doctype/fixed_deposit/fixed_deposit_list.js"}
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
 
@@ -151,6 +152,12 @@ app_license = "mit"
 # 		"on_trash": "method"
 # 	}
 # }
+
+doc_events = {
+	"Journal Entry": {
+		"on_cancel": "fixed_deposit_managment.fd_manager.doctype.journal_entry.on_cancel"
+	},
+}
 
 # Scheduled Tasks
 # ---------------

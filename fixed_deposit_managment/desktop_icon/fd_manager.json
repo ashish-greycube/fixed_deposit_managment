@@ -1,0 +1,20 @@
+{
+ "app": "fixed_deposit_managment",
+ "bg_color": "gray",
+ "creation": "2026-10-05 18:13:38.073841",
+ "docstatus": 0,
+ "doctype": "Desktop Icon",
+ "hidden": 0,
+ "icon_type": "Link",
+ "idx": 0,
+ "label": "FD Manager",
+ "link_to": "FD Manager",
+ "link_type": "Workspace Sidebar",
+ "modified": "2026-10-05 18:17:14.483795",
+ "modified_by": "Administrator",
+ "name": "FD Manager",
+ "owner": "Administrator",
+ "restrict_removal": 0,
+ "roles": [],
+ "standard": 1
+}

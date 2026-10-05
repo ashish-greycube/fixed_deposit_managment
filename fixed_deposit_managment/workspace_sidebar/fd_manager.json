@@ -1,0 +1,26 @@
+{
+ "app": "fixed_deposit_managment",
+ "creation": "2026-10-05 18:13:38.064187",
+ "docstatus": 0,
+ "doctype": "Workspace Sidebar",
+ "idx": 0,
+ "items": [
+  {
+   "child": 0,
+   "collapsible": 1,
+   "indent": 0,
+   "keep_closed": 0,
+   "label": "FD Manager",
+   "link_to": "FD Manager",
+   "link_type": "Workspace",
+   "show_arrow": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2026-10-05 18:16:30.404764",
+ "modified_by": "Administrator",
+ "name": "FD Manager",
+ "owner": "Administrator",
+ "standard": 1,
+ "title": "FD Manager"
+}
